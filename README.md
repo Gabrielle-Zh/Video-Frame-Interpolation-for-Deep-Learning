@@ -8,3 +8,6 @@ https://docs.google.com/presentation/d/1a4R7RoS5xOBzxJ6GXSUzqBmKNGckNTFvrd6vzz2p
 
 ## resource
 https://deeplearning.cs.cmu.edu/shared/projects/S20/gallery.html
+
+## code resource
+https://github.com/dvlab-research/VFIformer
