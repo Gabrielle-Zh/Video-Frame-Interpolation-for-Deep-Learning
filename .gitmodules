@@ -1,0 +1,3 @@
+[submodule "VFIformer"]
+	path = VFIformer
+	url = https://github.com/dvlab-research/VFIformer.git
